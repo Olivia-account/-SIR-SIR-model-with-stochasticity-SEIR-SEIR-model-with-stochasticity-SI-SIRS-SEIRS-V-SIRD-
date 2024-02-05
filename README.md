@@ -943,7 +943,6 @@ print(f"Optimized Mortality Rate (mu): {mu_optimal}")
 ```
 
 # 项目链接
-
-GitHub：https://github.com/Olivia-account/-SIR-SIR-model-with-stochasticity-SEIR-SEIR-model-with-stochasticity-SI-SIRS-SEIRS-V-SIRD-
+CSDN：https://blog.csdn.net/m0_46573428/article/details/136040651
 # 后记
 如果觉得有帮助的话，求 关注、收藏、点赞、星星 哦！
